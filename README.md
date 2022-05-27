@@ -13,7 +13,7 @@
 > Bluetooth And A Smartphone Application as a Fingerprint Authenticator.
 > To ensure safety, the Lock will **unlock** only when you
 > **place Finger which you use to unlock your device** and your door
-> lock will **unlock** for **4 Seconds Only 4 Seconds Only**.
+> lock will **unlock** for **4 Seconds Only**.
 > (Locks after 4seconds automatically). It will also not work if there
 > are three consecutive unauthorized attempts.
 >
