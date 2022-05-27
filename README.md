@@ -192,7 +192,7 @@ circuit design.
 > are connecting HC-05 for the frst time, It will ask for a password
 > which is usually \"0000\" OR \"1234\"**) Now, whenever you want to
 > unlock the **Smart Door Lock** Click on the fingerprint icon and then place your finger which you use to unlock your device and your door lock will
-**unlock unlock** for **4 Seconds Only**
+**unlock** for **4 Seconds Only**
 > (Locks after 4 seconds automatically)\
 > **Note**: The Lock will **unlock** only when you **place Finger
 > which you use to unlock your device.**
