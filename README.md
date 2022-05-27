@@ -32,12 +32,12 @@
 
 
 
-> After making the circuit diagram I transformed it into a PCB design to
-> produce it, to produce the PCB, I have chosen the best PCB supplier
+> After making the circuit diagram I transformed it into a [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) design to
+> produce it, to produce the [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB), I have choosen the best [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) supplier
 > and the cheapest PCB provider to order my circuit. with
 > the reliable platform, all I need to do is some simple clicks to upload
 > the Gerber file and set some parameters like the PCB thickness color
-> and quantity. I've paid just 2 Dollars to get my PCB after five days
+> and quantity. I've paid just 2 Dollars to get my [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) after five days
 > only, what I have noticed about this time is the "out-of-charge PCB
 > color" which means you will pay only 2USD for any PCB color you
 > choose.
@@ -200,7 +200,7 @@ circuit design.
 > also **not work not work** if there are **three consecutive
 > unauthorized attempts.**
 >
-> **New users will also get some coupons while registering atvia this
+> **New users will also get some coupons while registering at [JLCPCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB)via this
 > blue link.**
 >
 > **Thank you for reading this guide, hopefully**, **this guide provides
