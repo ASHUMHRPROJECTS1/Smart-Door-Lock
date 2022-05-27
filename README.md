@@ -11,9 +11,9 @@
 > it receives such instructionsfrom an authorized device using a
 > wireless protocol. This is a Smart Door Lock System which uses Arduino
 > Bluetooth And A Smartphone Application as a Fingerprint Authenticator.
-> To ensure safety, the Lock will **unlock unlock** only when you
+> To ensure safety, the Lock will **unlock** only when you
 > **place Finger which you use to unlock your device** and your door
-> lock will **unlock unlock** for **4 Seconds Only 4 Seconds Only**.
+> lock will **unlock** for **4 Seconds Only 4 Seconds Only**.
 > (Locks after 4seconds automatically). It will also not work if there
 > are three consecutive unauthorized attempts.
 >
@@ -33,12 +33,12 @@
 
 
 > After making the circuit diagram I transformed it into a [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) design to
-> produce it, to produce the [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB), I have choosen the best [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) supplier
+> produce it, to produce the [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB), I have choosen [JLCPCB](https://jlcpcb.com/IYB) the best [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) supplier
 > and the cheapest PCB provider to order my circuit. with
 > the reliable platform, all I need to do is some simple clicks to upload
 > the Gerber file and set some parameters like the PCB thickness color
 > and quantity. I've paid just 2 Dollars to get my [PCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) after five days
-> only, what I have noticed about this time is the "out-of-charge PCB
+> only, what I have noticed about [JLCPCB](https://jlcpcb.com/IYB) this time is the "out-of-charge PCB
 > color" which means you will pay only 2USD for any PCB color you
 > choose.
 
